@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dde380eb-3ff9-44ca-84da-105122dcab59" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/authors/authorForm.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/authors/manageAuthorPage.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/notFoundPage.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/common/textInput.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/about/aboutPage.js" afterPath="$PROJECT_DIR$/src/components/about/aboutPage.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/authors/authorPage.js" afterPath="$PROJECT_DIR$/src/components/authors/authorPage.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/scripts/bundle.js" afterPath="$PROJECT_DIR$/dist/scripts/bundle.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/common/header.js" afterPath="$PROJECT_DIR$/src/components/common/header.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/homePage.js" afterPath="$PROJECT_DIR$/src/components/homePage.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main.js" afterPath="$PROJECT_DIR$/src/main.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/routes.js" afterPath="$PROJECT_DIR$/src/routes.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="dde380eb-3ff9-44ca-84da-105122dcab59" name="Default" comment="" />
     <ignored path="psadmin.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -38,8 +24,8 @@
       <file leaf-file-name="manageAuthorPage.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/components/authors/manageAuthorPage.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.25454545">
-              <caret line="14" column="6" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
+            <state vertical-scroll-proportion="0.12727273">
+              <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -510,8 +496,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/authors/manageAuthorPage.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.25454545">
-          <caret line="14" column="6" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
+        <state vertical-scroll-proportion="0.12727273">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
           <folding />
         </state>
       </provider>
